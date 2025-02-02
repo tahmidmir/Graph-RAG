@@ -1,7 +1,3 @@
-## 📄 **Comprehensive and Professional README**  
-
-# 🧠 AI for Medical Text & Knowledge Retrieval 
-
 ## 🔥 Project: Fine-tuning GPT-2 & GraphRAG for Medical Text Processing  
 
 This repository includes two ** Natural Language Processing (NLP)** projects designed for **medical text analysis and improving information retrieval**.  
