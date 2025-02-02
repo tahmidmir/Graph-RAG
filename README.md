@@ -81,10 +81,10 @@ jupyter notebook graphrag.ipynb
 
 ## 🎯 **Applications of These Projects**  
 
-🔬 **Medical Applications:** Analyzing scientific articles, aiding disease diagnosis  
-🔍 **Search Systems:** Optimizing scientific and medical search engines  
-💡 **Research Assistance:** Gathering more accurate information for medical research  
-🤖 **Improving Chatbots:** Enhancing medical chatbots for more precise responses  
+✅ **Medical Applications:** Analyzing scientific articles, aiding disease diagnosis  
+✅ **Search Systems:** Optimizing scientific and medical search engines  
+✅ **Research Assistance:** Gathering more accurate information for medical research  
+✅ **Improving Chatbots:** Enhancing medical chatbots for more precise responses  
 
 ---
 
