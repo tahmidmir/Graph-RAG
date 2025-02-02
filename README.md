@@ -68,7 +68,7 @@ In this section, the **Retrieval-Augmented Generation (RAG)** method is combined
 - pandas
 - matplotlib
 
-First, install the necessary packages:   
+First, install the necessary packages. 
 Then, run the notebook in Jupyter Notebook.  
 ### Run the Notebook  
 ```bash
