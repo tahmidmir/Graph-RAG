@@ -1,6 +1,6 @@
 ## 🔥 Project: Fine-tuning GPT-2 & GraphRAG for Medical Text Processing  
 
-This repository includes two ** Natural Language Processing (NLP)** projects designed for **medical text analysis and improving information retrieval**.  
+This repository includes two **Natural Language Processing (NLP)** projects designed for **medical text analysis and improving information retrieval**.  
 
 ---
 
@@ -47,7 +47,7 @@ jupyter notebook fine-tuning-gpt-2-on-skin-cancer-articles.ipynb
 
 In this section, the **Retrieval-Augmented Generation (RAG)** method is combined with a **graph-based structure** to extract more accurate and relevant information for text generation.  
 
-### 🔥 **Why is GraphRAG Important?**  
+### **Why is GraphRAG Important?**  
 ✅ **Intelligent Information Retrieval:** Using graphs to optimize knowledge search  
 ✅ **Stronger Generative Models:** Combining **RAG and GPT** to improve response accuracy  
 ✅ **Processing Complex Data:** Suitable for scientific and medical search systems  
